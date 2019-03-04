@@ -1,6 +1,13 @@
-# Content Tree for the concept of Linear Regression
+# Content Tree for Linear Regression
 
-**Assumptions**
+**Learning outcomes**
+
+- Validating linear regression assumptions
+- Determining co-efficients of best fit line with the help of scikit-learn (using OLS)
+- Understanding different error metrics
+
+
+**Pre-requisites**
 
 The learner is assumed to have a basic knowledge of the following:
 - Basics of matrix representations - what is a matrix, how is data represented in matrix form.
